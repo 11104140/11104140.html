@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>書籍收藏</title>
+</head>
+<body>
+    <header>
+        <h1>我的書籍收藏</h1>
+        <nav>
+            <ul>
+                <li><a href="#sci-fi">科幻小說</a></li>
+                <li><a href="#classic">經典文學</a></li>
+                <li><a href="#non-fiction">非小說類</a></li>
+                <li><a href="#contact">聯絡方式</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="sci-fi">
+            <h2>科幻小說</h2>
+            <article>
+                <h3>《1984》 - 喬治·奧威爾</h3>
+                <p>《1984》是一部描寫極權社會的經典小說，通過對未來社會的虛構描寫，揭示了個人在極權社會中的處境。</p>
+            </article>
+            <article>
+                <h3>《基地》 - 艾薩克·阿西莫夫</h3>
+                <p>《基地》系列是科幻文學中的瑰寶，描繪了一個由心理史學家所預言並策劃的未來宇宙。</p>
+            </article>
+            <article>
+                <h3>《銀河系漫遊指南》 - 道格拉斯·亞當斯</h3>
+                <p>《銀河系漫遊指南》是一部幽默風趣的科幻小說，講述了地球毀滅後，唯一倖存者亞瑟·丹特的奇幻旅行。</p>
+            </article>
+        </section>
+
+        <section id="classic">
+            <h2>經典文學</h2>
+            <article>
+                <h3>《傲慢與偏見》 - 簡·奧斯汀</h3>
+                <p>《傲慢與偏見》是簡·奧斯汀的代表作，講述了伊麗莎白·班內特和費茲威廉·達西之間的愛情故事。</p>
+            </article>
+            <article>
+                <h3>《罪與罰》 - 費奧多爾·陀思妥耶夫斯基</h3>
+                <p>《罪與罰》是俄國文學的經典之作，講述了一名年輕學生殺害一名老婦人的故事，探討了罪行與懺悔的深刻主題。</p>
+            </article>
+            <article>
+                <h3>《老人与海》 - 厄内斯特·海明威</h3>
+                <p>《老人与海》是一部充滿哲理的小說，講述了一位老漁夫和一條巨大馬林魚之間的鬥爭。</p>
+            </article>
+        </section>
+
+        <section id="non-fiction">
+            <h2>非小說類</h2>
+            <article>
+                <h3>《思考，快與慢》 - 丹尼爾·卡尼曼</h3>
+                <p>《思考，快與慢》是諾貝爾獎得主丹尼爾·卡尼曼的經典作品，探討了人類思維的兩種系統：快思考和慢思考。</p>
+            </article>
+            <article>
+                <h3>《槍炮、病菌與鋼鐵》 - 賈雷德·戴蒙德</h3>
+                <p>《槍炮、病菌與鋼鐵》分析了各種因素如何影響了不同文明的發展路徑，從而改變了人類歷史的進程。</p>
+            </article>
+            <article>
+                <h3>《自私的基因》 - 理查德·道金斯</h3>
+                <p>《自私的基因》是理查德·道金斯的代表作，介紹了基因選擇論，並解釋了自私和利他的行為如何在自然選擇中進化。</p>
+            </article>
+        </section>
+    </main>
+
+    <section id="contact">
+        <h2>聯絡方式</h2>
+        <p>如果你有推薦的書籍，請聯絡我：</p>
+        <ul>
+            <li>電子郵件: booklover@example.com</li>
+        </ul>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 我的書籍收藏</p>
+    </footer>
+</body>
+</html>
